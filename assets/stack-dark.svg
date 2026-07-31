@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" role="img" aria-label="Stack technique">
+  <rect x="0.5" y="0.5" width="879" height="299" rx="12" fill="#0B0F14" stroke="#222B36"/>
+  <text x="36" y="40" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#E3B341" letter-spacing="1.8">STACK</text>
+  <line x1="100" y1="35" x2="844" y2="35" stroke="#1C2530"/>
+  <text x="36" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6E7681">backend</text>
+  <text x="150" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#C9D1D9">Java  &#183;  Spring Boot  &#183;  Django  &#183;  FastAPI  &#183;  Jakarta EE</text>
+  <text x="36" y="108" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6E7681">frontend</text>
+  <text x="150" y="108" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#C9D1D9">React  &#183;  Next.js  &#183;  Svelte  &#183;  TypeScript  &#183;  Tailwind</text>
+  <text x="36" y="142" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6E7681">mobile</text>
+  <text x="150" y="142" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#C9D1D9">Flutter  &#183;  Dart</text>
+  <text x="36" y="176" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6E7681">syst&#232;mes</text>
+  <text x="150" y="176" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#C9D1D9">C  &#183;  C++  &#183;  GTK4  &#183;  Linux  &#183;  Wayland / X11</text>
+  <text x="36" y="210" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6E7681">donn&#233;es</text>
+  <text x="150" y="210" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#C9D1D9">PostgreSQL  &#183;  MySQL  &#183;  Firebase  &#183;  Redis</text>
+  <text x="36" y="244" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6E7681">infra</text>
+  <text x="150" y="244" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#C9D1D9">Docker  &#183;  GitHub Actions  &#183;  Caddy  &#183;  Nginx</text>
+</svg>
