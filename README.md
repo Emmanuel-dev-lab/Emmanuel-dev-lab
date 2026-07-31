@@ -1,89 +1,73 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Emmanuel Signie — Software Engineer, Full-Stack et systèmes" src="assets/hero-light.svg" width="100%">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=250&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+<br>
 
-### <div align="center">I'm 💡 Emmanuel Signie (Emmanuel-dev-lab)</div>
-<br/>
+Je conçois et construis des systèmes complets — d'une API bancaire testée à 100 % de couverture de branches à un gestionnaire de presse-papiers natif pour Linux. Ce qui m'intéresse : les architectures qui tiennent, le code qu'on peut relire six mois plus tard, et les tests qui prouvent quelque chose.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Web;Mobile+Developer+(Flutter+%2F+Dart);System+Programmer+(C+%2F+C%2B%2B);Open-Source+Enthusiast+%7C+Tech+Builder)](https://git.io/typing-svg)
+Actuellement en licence à l'Université de Yaoundé 1, et en mission sur des projets clients en parallèle (e-commerce, conseil, applications métier).
 
-</div>
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="Stack technique" src="assets/stack-light.svg" width="100%">
+</picture>
 
-<div align="center">
-  <p>
-    <em>
-      Product Builder passionné par la conception d'architectures résilientes, la résolution de problèmes
-      complexes et l'innovation numérique. Jonglant entre le rigorisme académique 🎓 et les contraintes de
-      production de l'industrie (Télémédecine, E-commerce, IA) 🚀.
-    </em>
-  </p>
-</div>
+<br>
 
-### 🛠️ Crafting Code & Magic
+## Projets
 
-*   🔭 **Actuellement en train de construire** [`GrandMind`](https://github.com/Emmanuel-dev-lab/GrandMind) — un coach d'échecs qui analyse vos parties et vous fait rejouer vos erreurs en répétition espacée.
-*   👨‍💻 **Dernières explorations** : systèmes natifs Linux ([`clipto-linux`](https://github.com/Emmanuel-dev-lab/clipto-linux)), tests exhaustifs sur API bancaire ([`banking-api-100-coverage`](https://github.com/Emmanuel-dev-lab/banking-api-100-coverage)), et WebApps robustes (React/Django).
-*   🌱 **Apprentissage continu** en Cloud-Native (Docker/K8s) et DevOps.
-*   💬 **Demandez-moi sur** : `TypeScript/React`, `Python/Django`, `Java/Jakarta EE`, `Flutter/Dart`, et la conception orientée objet stricte.
-*   📫 **Me joindre** : [emmanuelscre1@gmail.com](mailto:emmanuelscre1@gmail.com)
-
----
-
-### 💻 Stack Technologique & Écosystème
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,dart&perline=7" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,django,flutter,nodejs,express,php,laravel&perline=7" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,firebase,docker,linux,git,github,bash&perline=7" />
-</div>
-
-<br/>
-
----
-
-### 🚀 Projets Sélectionnés
-
-| Projet | Description | Stack Principal |
+| Projet | Description | Stack |
 | :--- | :--- | :--- |
-| **♟️ [GrandMind](https://github.com/Emmanuel-dev-lab/GrandMind)** | *Coach d'échecs : analyse de parties, détection des faiblesses récurrentes et répétition espacée* | Python, Svelte, TypeScript |
-| **🏦 [banking-api-100-coverage](https://github.com/Emmanuel-dev-lab/banking-api-100-coverage)** | *API bancaire REST (comptes, prêts, JWT) — **100 % de couverture de branches** vérifiée par JaCoCo* | Java, Spring Boot, PostgreSQL |
-| **🎓 [e-istc-elearning](https://github.com/Emmanuel-dev-lab/e-istc-elearning)** | *Plateforme e-learning monolithique : cours, évaluations, forums, messagerie — 3 rôles* | Django, Docker, PostgreSQL |
-| **📊 [NotesSup](https://github.com/Emmanuel-dev-lab/NotesSup)** | *Système de gestion de notes universitaire avec classements par niveau et filière* | Jakarta EE 11, Java 21, MySQL |
-| **🐧 [clipto-linux](https://github.com/Emmanuel-dev-lab/clipto-linux)** | *Gestionnaire de presse-papiers natif pour Linux (texte, images, épinglage)* | Python, GTK4, X11/Wayland |
-| **🖥️ [portfolio](https://github.com/Emmanuel-dev-lab/portfolio)** | *Portfolio statique : terminal interactif, scène 3D WebGL, easter eggs* | JavaScript, WebGL, CSS |
-| **💬 [EcoleChat](https://github.com/Emmanuel-dev-lab/chat)** | *Messagerie scolaire sécurisée : rôles, modération, dashboard admin* | Next.js 15, TypeScript, Firebase |
-| **💊 [doktaLink](https://github.com/Emmanuel-dev-lab/doktaLink)** | *Modélisation UML complète d'une plateforme de téléconsultation médicale* | UML, PlantUML, Architecture |
-| **🎟️ [event_app](https://github.com/Emmanuel-dev-lab/event_app)** | *Gestion d'événements en équipe : billetterie QR, dashboard admin, déploiement Docker* | TypeScript, Spring Boot |
-| **🍑 [plum-api](https://github.com/CodeStorm-mbe/plum-api)** | *Classification automatique de prunes africaines par vision par ordinateur — API du projet d'équipe [CodeStorm](https://github.com/CodeStorm-mbe) (56 commits)* | Django, PyTorch, Vision |
+| **[GrandMind](https://github.com/Emmanuel-dev-lab/GrandMind)** | Coach d'échecs qui analyse vos parties, identifie vos faiblesses récurrentes et vous les fait rejouer en répétition espacée. | Python · FastAPI · Svelte |
+| **[banking-api-100-coverage](https://github.com/Emmanuel-dev-lab/banking-api-100-coverage)** | API bancaire REST — comptes, prêts, JWT. **100 % de couverture de branches** vérifiée par JaCoCo à chaque build. | Java 21 · Spring Boot · PostgreSQL |
+| **[e-istc-elearning](https://github.com/Emmanuel-dev-lab/e-istc-elearning)** | Plateforme e-learning monolithique : cours, évaluations, forums, messagerie. Trois rôles, déploiement Docker. | Django · PostgreSQL · Docker |
+| **[NotesSup](https://github.com/Emmanuel-dev-lab/NotesSup)** | Gestion de notes universitaire — classements cloisonnés par niveau et filière, trois rôles. | Jakarta EE 11 · Java 21 · MySQL |
+| **[clipto-linux](https://github.com/Emmanuel-dev-lab/clipto-linux)** | Gestionnaire de presse-papiers natif : texte, images, épinglage. Fonctionne sous X11 et Wayland. | Python · GTK4 · LibAdwaita |
+| **[portfolio](https://github.com/Emmanuel-dev-lab/portfolio)** | Portfolio statique avec terminal interactif et scène 3D WebGL. Aucun backend. | JavaScript · WebGL |
+| **[EcoleChat](https://github.com/Emmanuel-dev-lab/chat)** | Messagerie scolaire sécurisée : rôles, modération, tableau de bord d'administration. | Next.js 15 · TypeScript · Firebase |
+| **[plum-api](https://github.com/CodeStorm-mbe/plum-api)** | Classification automatique de prunes africaines par vision par ordinateur — projet d'équipe [CodeStorm](https://github.com/CodeStorm-mbe). | Django · PyTorch · Vision |
+| **[doktaLink](https://github.com/Emmanuel-dev-lab/doktaLink)** | Modélisation UML complète d'une plateforme de téléconsultation médicale. Projet de fin d'études. | UML · PlantUML · Architecture |
 
-> Une partie de mon travail (missions clients, projets en cours) se fait sur des dépôts privés — accès possible sur demande.
+Une partie de mon travail se fait sur des dépôts privés — missions clients et projets en cours. Accès possible sur demande.
 
----
+<br>
 
-### 📈 Métriques GitHub & Activité
+## Activité
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Emmanuel-dev-lab&hide_border=true&border_radius=10&background=0B0F14&border=222B36&stroke=222B36&ring=E3B341&fire=E3B341&currStreakLabel=E3B341&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681">
+  <img alt="Séries de contributions" src="https://streak-stats.demolab.com?user=Emmanuel-dev-lab&hide_border=true&border_radius=10&background=FFFFFF&border=D8DEE4&stroke=D8DEE4&ring=9A6700&fire=9A6700&currStreakLabel=9A6700&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76" width="100%">
+</picture>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Emmanuel-dev-lab&theme=github-dark-blue&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<table>
+<tr>
+<td width="50%">
 
-  <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Emmanuel-dev-lab&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=E3B341&text_color=C9D1D9&icon_color=7EE787">
+  <img alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-dev-lab&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=9A6700&text_color=1F2328&icon_color=1A7F37" width="100%">
+</picture>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-dev-lab&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-dev-lab&layout=compact&theme=github_dark_dimmed&hide_border=true" height="192"/>
+</td>
+<td width="50%">
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-dev-lab&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F14&title_color=E3B341&text_color=C9D1D9">
+  <img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-dev-lab&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=9A6700&text_color=1F2328" width="100%">
+</picture>
 
----
+</td>
+</tr>
+</table>
 
-<div align="center">
+<br>
 
-*Merci de votre visite ! Laissez une étoile ⭐ si mes projets Open Source vous ont aidé.*
+## Contact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=100&section=footer" width="100%" />
-</div>
+[emmanuelscre1@gmail.com](mailto:emmanuelscre1@gmail.com)
