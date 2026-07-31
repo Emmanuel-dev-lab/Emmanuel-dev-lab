@@ -60,6 +60,7 @@
 | **💬 [EcoleChat](https://github.com/Emmanuel-dev-lab/chat)** | *Messagerie scolaire sécurisée : rôles, modération, dashboard admin* | Next.js 15, TypeScript, Firebase |
 | **💊 [doktaLink](https://github.com/Emmanuel-dev-lab/doktaLink)** | *Modélisation UML complète d'une plateforme de téléconsultation médicale* | UML, PlantUML, Architecture |
 | **🎟️ [event_app](https://github.com/Emmanuel-dev-lab/event_app)** | *Gestion d'événements en équipe : billetterie QR, dashboard admin, déploiement Docker* | TypeScript, Spring Boot |
+| **🍑 [plum-api](https://github.com/CodeStorm-mbe/plum-api)** | *Classification automatique de prunes africaines par vision par ordinateur — API du projet d'équipe [CodeStorm](https://github.com/CodeStorm-mbe) (56 commits)* | Django, PyTorch, Vision |
 
 > Une partie de mon travail (missions clients, projets en cours) se fait sur des dépôts privés — accès possible sur demande.
 
