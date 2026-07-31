@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 348" width="880" height="348" role="img" aria-label="Emmanuel Signie, Software Engineer, Full-Stack et systemes">
+  <rect x="0.5" y="0.5" width="879" height="347" rx="12" fill="#0B0F14" stroke="#222B36"/>
+  <path d="M0.5 12.5a12 12 0 0 1 12-12h855a12 12 0 0 1 12 12V44H0.5z" fill="#131920"/>
+  <line x1="0.5" y1="44" x2="879.5" y2="44" stroke="#222B36"/>
+  <circle cx="24" cy="22" r="5.5" fill="#E06C75" opacity="0.85"/>
+  <circle cx="43" cy="22" r="5.5" fill="#D5A253" opacity="0.85"/>
+  <circle cx="62" cy="22" r="5.5" fill="#89C07E" opacity="0.85"/>
+  <text x="440.0" y="27" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#6E7681" text-anchor="middle">emmanuel@github:&#160;~</text>
+
+  <text x="36" y="88" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#7EE787">emmanuel@github</tspan><tspan fill="#6E7681">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#6E7681">&#160;%&#160;</tspan><tspan fill="#C9D1D9">whoami</tspan></text>
+
+  <text x="36" y="156" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="40" font-weight="700" fill="#C9D1D9" letter-spacing="1.5">EMMANUEL SIGNIE</text>
+  <text x="38" y="188" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14.5" fill="#E3B341" letter-spacing="0.4">Software Engineer&#160;&#183;&#160;Full-Stack&#160;&#183;&#160;Syst&#232;mes</text>
+
+  <line x1="36" y1="214" x2="844" y2="214" stroke="#1C2530"/>
+
+  <text x="36" y="246" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" xml:space="preserve"><tspan fill="#E3B341">&#9656;</tspan><tspan fill="#6E7681">&#160;&#160;Universit&#233; de Yaound&#233; 1&#160;&#183;&#160;Cameroun</tspan></text>
+  <text x="36" y="272" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" xml:space="preserve"><tspan fill="#E3B341">&#9656;</tspan><tspan fill="#C9D1D9">&#160;&#160;Java&#160;&#183;&#160;Python&#160;&#183;&#160;TypeScript&#160;&#183;&#160;C&#160;&#183;&#160;Dart</tspan></text>
+  <text x="36" y="298" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" xml:space="preserve"><tspan fill="#E3B341">&#9656;</tspan><tspan fill="#6E7681">&#160;&#160;emmanuelscre1@gmail.com</tspan></text>
+
+  <text x="36" y="328" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#7EE787">emmanuel@github</tspan><tspan fill="#6E7681">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#6E7681">&#160;%&#160;</tspan></text>
+  <rect x="210" y="317" width="9" height="15" fill="#E3B341" opacity="0.9"/>
+</svg>
