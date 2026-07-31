@@ -59,7 +59,7 @@
 | **🖥️ [portfolio](https://github.com/Emmanuel-dev-lab/portfolio)** | *Portfolio statique : terminal interactif, scène 3D WebGL, easter eggs* | JavaScript, WebGL, CSS |
 | **💬 [EcoleChat](https://github.com/Emmanuel-dev-lab/chat)** | *Messagerie scolaire sécurisée : rôles, modération, dashboard admin* | Next.js 15, TypeScript, Firebase |
 | **💊 [doktaLink](https://github.com/Emmanuel-dev-lab/doktaLink)** | *Modélisation UML complète d'une plateforme de téléconsultation médicale* | UML, PlantUML, Architecture |
-| **🏥 [MedCManager](https://github.com/Emmanuel-dev-lab/MedCManager)** | *Gestion médicale en ligne de commande : consultations, stocks, alertes péremption* | C, Makefile |
+| **🎟️ [event_app](https://github.com/Emmanuel-dev-lab/event_app)** | *Gestion d'événements en équipe : billetterie QR, dashboard admin, déploiement Docker* | TypeScript, Spring Boot |
 
 > Une partie de mon travail (missions clients, projets en cours) se fait sur des dépôts privés — accès possible sur demande.
 
