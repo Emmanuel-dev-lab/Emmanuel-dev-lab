@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Emmanuel Signie — Software Engineer, Full-Stack et systèmes" src="assets/hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emmanuel-dev-lab/Emmanuel-dev-lab/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emmanuel-dev-lab/Emmanuel-dev-lab/main/assets/hero-light.svg">
+  <img alt="Emmanuel Signie — Software Engineer, Full-Stack et systèmes" src="https://raw.githubusercontent.com/Emmanuel-dev-lab/Emmanuel-dev-lab/main/assets/hero-light.svg" width="100%">
 </picture>
 
 <br>
@@ -13,9 +13,9 @@ Actuellement en licence à l'Université de Yaoundé 1, et en mission sur des pr
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Stack technique" src="assets/stack-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emmanuel-dev-lab/Emmanuel-dev-lab/main/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emmanuel-dev-lab/Emmanuel-dev-lab/main/assets/stack-light.svg">
+  <img alt="Stack technique" src="https://raw.githubusercontent.com/Emmanuel-dev-lab/Emmanuel-dev-lab/main/assets/stack-light.svg" width="100%">
 </picture>
 
 <br>
