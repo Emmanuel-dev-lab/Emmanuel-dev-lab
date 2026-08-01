@@ -25,7 +25,7 @@ Actuellement en licence à l'Université de Yaoundé 1, et en mission sur des pr
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
 | **[GrandMind](https://github.com/Emmanuel-dev-lab/GrandMind)** | Coach d'échecs qui analyse vos parties, identifie vos faiblesses récurrentes et vous les fait rejouer en répétition espacée. | Python · FastAPI · Svelte |
-| **[banking-api-100-coverage](https://github.com/Emmanuel-dev-lab/banking-api-100-coverage)** | API bancaire REST en ports et adaptateurs — comptes, prêts, JWT. Cœur métier couvert à **100 % des branches**, vérifié par JaCoCo à chaque build (198 tests). | Java 21 · Spring Boot · PostgreSQL |
+| **[banking-api-ict304](https://github.com/Emmanuel-dev-lab/banking-api-ict304)** | API bancaire REST en ports et adaptateurs — comptes, prêts, JWT. Cœur métier couvert à **100 % des branches**, vérifié par JaCoCo à chaque build (198 tests). | Java 21 · Spring Boot · PostgreSQL |
 | **[e-istc-elearning](https://github.com/Emmanuel-dev-lab/e-istc-elearning)** | Plateforme e-learning monolithique : cours, évaluations, forums, messagerie. Trois rôles, déploiement Docker. | Django · PostgreSQL · Docker |
 | **[NotesSup](https://github.com/Emmanuel-dev-lab/NotesSup)** | Gestion de notes universitaire — classements cloisonnés par niveau et filière, trois rôles. | Jakarta EE 11 · Java 21 · MySQL |
 | **[clipto-linux](https://github.com/Emmanuel-dev-lab/clipto-linux)** | Gestionnaire de presse-papiers natif : texte, images, épinglage. Fonctionne sous X11 et Wayland. | Python · GTK4 · LibAdwaita |
